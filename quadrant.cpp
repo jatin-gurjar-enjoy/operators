@@ -14,23 +14,23 @@ int main(){
     else
        cout<<"present in fourth quadrant";
 }
-//enter the co ordinates21
-//424
+//enter the co ordinates1
+//42
 //present in first quadrant
 
 //=== Code Execution Successful ===
-//enter the co ordinates23
-//-23
+//enter the co ordinates2
+//-2
 //present in fourth quadrant
 
 //=== Code Execution Successful ===
-//enter the co ordinates-21
-//-21
+//enter the co ordinates-1
+//-2
 //present in third quadrant
 
 //=== Code Execution Successful ===
-//enter the co ordinates-21
-//98
+//enter the co ordinates-1
+//9
 //present in second quadrant
 
 //=== Code Execution Successful ===
